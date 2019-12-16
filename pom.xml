@@ -10,7 +10,7 @@
 
     <name>common-beancopier-${project.version}</name>
     <description>common bean copier</description>
-    <url>https://github.com/zhouhailin/common-beancopier</url>
+    <url>https://zhouhailin.github.io/common-beancopier</url>
     <inceptionYear>2020</inceptionYear>
 
     <properties>
